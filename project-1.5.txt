@@ -1,0 +1,11 @@
+length=eval(input("enter length of rectangle:"))
+
+breadth=eval(input("enter breadth of rectangle:"))
+
+perimeter=2*(length+breadth)
+
+area=length+breadth
+
+print("perimeter of rectangle is:",perimeter)
+
+print("area of rectangle is:",area)
