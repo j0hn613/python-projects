@@ -1,0 +1,16 @@
+name=input("enter user name:")
+
+if name=="mahesh":
+
+    print("mahesh is logged")
+
+elif name=="kareem":
+
+    print("kareem is 
+elif name=="mahammad":
+
+    print("mahammad is logged")
+
+else:
+
+    print("enter the correct user name")
